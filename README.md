@@ -23,9 +23,6 @@ A productivity app that helps developers and knowledge workers track context swi
 - Total session time
 - Estimated productivity loss
 
-## 🚀 Live Demo
-
-[View Live Demo](https://Abhiii-shek.github.io/context-switch-tracker/)
 
 ## 🛠️ Installation & Setup
 
