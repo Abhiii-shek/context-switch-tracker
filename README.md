@@ -25,7 +25,7 @@ A productivity app that helps developers and knowledge workers track context swi
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yourusername.github.io/context-switch-tracker/)
+[View Live Demo](https://Abhiii-shek.github.io/context-switch-tracker/)
 
 ## 🛠️ Installation & Setup
 
@@ -38,7 +38,7 @@ A productivity app that helps developers and knowledge workers track context swi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/context-switch-tracker.git
+git clone https://github.com/Abhiii-shek/context-switch-tracker.git
 cd context-switch-tracker
 ```
 
@@ -140,9 +140,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@AbhishekRa68163](https://twitter.com/AbhishekRa68163)
 
-Project Link: [https://github.com/yourusername/context-switch-tracker](https://github.com/yourusername/context-switch-tracker)
+Project Link: [https://github.com/Abhiii-shek/context-switch-tracker](https://github.com/Abhiii-shek/context-switch-tracker)
 
 ---
 
